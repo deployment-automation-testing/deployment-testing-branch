@@ -2,7 +2,7 @@
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <application>
         <name>Dynamic Sail Components</name>
-        <uuid>_a-0000d84f-8704-8000-3c3b-010000010000_1716</uuid>
+        <uuid>_a-0000d84f-8704-8000-3c3b-010000010000_1717</uuid>
         <description>Application for Dynamic Sail Components. All Sail components are available to dynamically create via the application tool. Profitable for testing as well as for training</description>
         <parentUuid>SYSTEM_APPLICATIONS_ROOT</parentUuid>
         <visibility>
