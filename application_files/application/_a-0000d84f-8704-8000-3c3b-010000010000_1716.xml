@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <application>
         <name>Dynamic Sail Components</name>
@@ -312,4 +312,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul>
+</applicationHaul><!--updated on 2018-08-20T17:34:54.808-->
